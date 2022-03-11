@@ -1,4 +1,6 @@
-# Advanced Sample Hardhat Project
+# Advanced Staking ERC20 Sample Hardhat Project
+
+https://elastic-curran-6bd410.netlify.app/
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
 
